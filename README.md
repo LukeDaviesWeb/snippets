@@ -1,2 +1,3 @@
 # snippets
-# snippets
+## a work in progress... 
+The idea is to build a small library of snippets i use on a regular basis to help save time by not re writting code.
