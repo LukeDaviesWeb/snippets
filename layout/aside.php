@@ -8,5 +8,6 @@
       <li class="snippetSelector" snippet="mobile-menu">Mobile Menu</li>
       <li class="snippetSelector" snippet="buttons">Buttons</li>
       <li class="snippetSelector" snippet="ajax">Ajax Submission</li>
+      <li class="snippetSelector" snippet="ticker">CSS Title Typewriter effect</li>
     </ul>
 </aside>

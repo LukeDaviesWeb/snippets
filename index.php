@@ -6,6 +6,7 @@
       <?php include('snippets/buttons.php') ?>
       <?php include('snippets/mobile-menu.php') ?>
       <?php include('snippets/ajaxSubmissions.php') ?>
+      <?php include('snippets/cssTitleTicker.php') ?>
 
       <div class="homepage">
         <div class="title-container">
