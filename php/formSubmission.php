@@ -7,6 +7,12 @@ $email = trim($_POST['email']);
 $phone = trim($_POST['phone']);
 $message = trim($_POST['message']);
 
+// $firstName = 'Luke';
+// $lastName = 'Davies';
+// $email = 'lukedavies475@gmail.com';
+// $phone = 0424333064;
+// $message = 'message here';
+
 $response = array();
 
 if($firstName == ""){
@@ -33,8 +39,8 @@ else{
   //here is where you would email a response, or save data to a database.
   $response['success'] = true;
   $response['msg'] = 'form submitted successfully';
-  echo json_encode($response);
+  
 }
 
-
+echo json_encode($response);
 ?>
